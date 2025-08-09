@@ -1,2 +1,23 @@
 # Resume-Refiner-AI-Workflow
-N8N AI workflow for making resume modifications, tailoring them to job descriptions
+
+
+## Overview
+
+#### _This AI agent workflow, made in N8N, was designed to give a user suggestions on how to modify their resume to better fit a given job description._
+
+***
+
+## AI Agent Flow Diagram
+
+***
+
+## Building the Agent
+
+***
+
+## Troubleshooting
+
+***
+
+## Optimization
+
