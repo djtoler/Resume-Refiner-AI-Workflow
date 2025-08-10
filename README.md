@@ -33,7 +33,19 @@
 |---|---|
 | ![Alt text for Image 1](https://github.com/djtoler/Resume-Refiner-AI-Workflow/blob/main/images/extraction_node.jpeg) | ![Alt text for Image 2](https://github.com/djtoler/Resume-Refiner-AI-Workflow/blob/main/images/merge_node.jpeg) |
 
+#### _4. Finally, we pass the single merged output (job description data w/ resume text), to our OpenAI AI Agent that'll read the job description, resume & output the suggested modifications... then our GMail node write an email containing the resume modification suggestions to send to the user._
+
+| AI Agent Node | GMail Node |
+|---|---|
+| ![Alt text for Image 1](https://github.com/djtoler/Resume-Refiner-AI-Workflow/blob/main/images/ai_node.jpeg) | ![Alt text for Image 2](https://github.com/djtoler/Resume-Refiner-AI-Workflow/blob/main/images/email_inbox.jpeg) |
+
+#### _5. Below, we can see our AI workflow successfully delivered us an email with a summary of how to tailor my resume for a particular job description._
+
+![Workflow](https://github.com/djtoler/Resume-Refiner-AI-Workflow/blob/main/images/email_inbox.jpeg)
+
 ## Troubleshooting
+
+#### _Finding a out-of-the-box solution to extract relevant job data from HTML code was the initial challenge. I initially wanted to pass the entire HTML code along to the lAi agent and allow the agent to extract the job data. The agents available models did not provied a large enough input token limit so we decided to use a customized Code node to write a script that searches for keywords, extracts overlapping surrounding text, then passes the text along to the AI agent._
 
 
 ## Optimization
