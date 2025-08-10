@@ -9,6 +9,8 @@
 
 ## AI Agent Flow Diagram
 
+![A dog wearing a party hat](https://github.com/djtoler/Resume-Refiner-AI-Workflow/blob/main/images/n8n_diagram01.png)
+
 ***
 
 ## Building the Agent
