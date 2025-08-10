@@ -50,3 +50,4 @@
 
 ## Optimization
 
+#### _To optimize this workflow, I would allow users to upload various file formats, add more keywords to the HTML parser code file, enhance the formatting of the email message, possibly select a lower cost language model to do the modification suggestions._
