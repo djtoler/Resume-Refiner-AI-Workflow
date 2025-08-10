@@ -37,7 +37,7 @@
 
 | AI Agent Node | GMail Node |
 |---|---|
-| ![Alt text for Image 1](https://github.com/djtoler/Resume-Refiner-AI-Workflow/blob/main/images/ai_node.jpeg) | ![Alt text for Image 2](https://github.com/djtoler/Resume-Refiner-AI-Workflow/blob/main/images/email_inbox.jpeg) |
+| ![Alt text for Image 1](https://github.com/djtoler/Resume-Refiner-AI-Workflow/blob/main/images/ai_node.jpeg) | ![Alt text for Image 2](https://github.com/djtoler/Resume-Refiner-AI-Workflow/blob/main/images/email_node.jpeg) |
 
 #### _5. Below, we can see our AI workflow successfully delivered us an email with a summary of how to tailor my resume for a particular job description._
 
