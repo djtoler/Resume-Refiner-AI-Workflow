@@ -13,6 +13,8 @@
 
 ## Building the Agent
 
+##### _We approach building the workflow by starting with considering the desired output (resume modification suggestion), ask what input data (resume, job posting link & email address) do we need to get the desired output & how should we process our input data to get our desired output._
+
 ![Workflow](https://github.com/djtoler/Resume-Refiner-AI-Workflow/blob/main/images/workflow.png)
 
 #### _1. We start with a way to capture and input data into the system. In this case, we use a native N8N form to allow users to upload a resume, input a link to a job description and provide an email address to recieve results._
@@ -42,6 +44,8 @@
 #### _5. Below, we can see our AI workflow successfully delivered us an email with a summary of how to tailor my resume for a particular job description._
 
 ![Workflow](https://github.com/djtoler/Resume-Refiner-AI-Workflow/blob/main/images/email_inbox.jpeg)
+
+#### Later we added a output parser tool to the AI agent to reliably return outputs in a specified JSON structure.
 
 ## Troubleshooting
 
